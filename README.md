@@ -8,7 +8,7 @@ This project demonstrates authentication, role-based access control, inventory m
 ## 🌐 Live Demo (Frontend)
 
 Netlify URL:  
-👉 https://magnificent-sunshine-5505f3.netlify.app/login
+👉 https://sweet-shop-management-system69.netlify.app/login
 
 > Note: Backend APIs are not deployed. This link demonstrates the UI and authentication flow.
 
