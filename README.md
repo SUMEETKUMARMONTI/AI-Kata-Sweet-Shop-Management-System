@@ -29,7 +29,7 @@ Netlify URL:
   
 ## Screenshots
 - Dashboard view: ![Dashboard](screenshots/login-page.png)
-- Admin console: ![Admin Console](docs/screenshots/Admin.png)
+- Admin console: ![Admin Console](screenshots/output screenshot1.png)
   
 ### 🧪 Testing
 - Unit tests for business logic & validation
