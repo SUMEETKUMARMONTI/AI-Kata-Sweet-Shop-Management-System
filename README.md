@@ -28,8 +28,8 @@ Netlify URL:
 - Admin-only restocking
   
 ## Screenshots
-- Dashboard view: ![Dashboard](screenshots/login-page.png)
-- Admin console: ![Admin Console](screenshots/output-screenshot1.png)
+- login page: ![login page](screenshots/login-page.png)
+- Dashboard view: ![Dashboard](screenshots/output-screenshot1.png)
   
 ### 🧪 Testing
 - Unit tests for business logic & validation
