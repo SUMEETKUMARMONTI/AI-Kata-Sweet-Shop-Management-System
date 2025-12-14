@@ -26,7 +26,11 @@ Netlify URL:
 - Purchase sweets (quantity decreases)
 - Prevent purchase when out of stock
 - Admin-only restocking
-
+  
+## Screenshots
+- Dashboard view: ![Dashboard](docs/screenshots/Dashboard.png)
+- Admin console: ![Admin Console](docs/screenshots/Admin.png)
+  
 ### 🧪 Testing
 - Unit tests for business logic & validation
 - API integration tests using Supertest
