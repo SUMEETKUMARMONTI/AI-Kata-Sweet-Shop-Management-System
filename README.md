@@ -28,7 +28,7 @@ Netlify URL:
 - Admin-only restocking
   
 ## Screenshots
-- Dashboard view: ![Dashboard](docs/screenshots/Dashboard.png)
+- Dashboard view: ![Dashboard](screenshots/login-page.png)
 - Admin console: ![Admin Console](docs/screenshots/Admin.png)
   
 ### 🧪 Testing
